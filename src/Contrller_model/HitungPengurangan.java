@@ -3,12 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package Contrller_model;
 
 /**
  *
  * @author Christoporus Chiesa Yuarsa
  */
+
 //inheritance
 public class HitungPengurangan extends HitungPenjumlahan{
     //overriding
